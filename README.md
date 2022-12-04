@@ -1,6 +1,24 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## consolidating my knowledge in javascript with react
+applied concepts:
+<ul>
+<li> UseState</li>
+<li> UseEffect</li>
+<li> Form</li>
+<li> LocalStorage</li>
+<ul>
+<li> setItem</li>
+<li> getItem</li>
+</ul>
+<li> List</li>
+<li> map function </li>
+
+
+</ul>
+
+
 
 ## Available Scripts
 
